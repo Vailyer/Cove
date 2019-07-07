@@ -1,0 +1,2 @@
+# Cove
+AI Trading Bot
